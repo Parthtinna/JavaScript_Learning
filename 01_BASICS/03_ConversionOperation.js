@@ -10,6 +10,8 @@ let valueInNumber = Number(score)// it return NAN if value can't be changed (not
 // console.log(typeof valueInNumber)
 // console.log(valueInNumber)
 
+
+
 // "33"=> 33
 //"33abc"=> NaN (not a number)
 // true =>1; false => 0
@@ -33,5 +35,38 @@ let BooleanString = String(booleanNumber)
 // console.log(stringNumber)
 // console.log(typeof stringNumber)
 
-console.log(BooleanString)
-console.log(typeof BooleanString)
+// console.log(BooleanString)
+// console.log(typeof BooleanString)
+
+
+
+//********************************* Operations ****************************
+
+let value = 3 
+let negValue = -value
+// console.log(negValue)
+
+// console.log(2+2);
+// console.log(2-2);
+// console.log(2*2);
+// console.log(2**3);
+// console.log(2/3);
+// console.log(2%3);
+
+let firstName = "Parth"
+let lastName =" Tinna"
+
+// console.log("1"+ 2);
+// console.log(1 + "2")
+// console.log("1" +2 +2)
+// console.log( 1 + 2 +"3");
+
+// console.log((true + true) * 3 +" 32")
+// console.log(+"")
+
+let num1 ,num2,num3 ;
+
+num1 =num2 = num3 = 4
+
+
+
