@@ -1,0 +1,9 @@
+name: Run Shell Commands
+On : [push]
+
+jobs: 
+  run-shell-command:
+    runs-on: ubantu-latest
+    steps: 
+      - name: Echo a String 
+        run: echo "hello from Agentic Dev"
